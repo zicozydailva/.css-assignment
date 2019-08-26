@@ -1,0 +1,114 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body,html {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7em;
+  margin: 0;
+  font-size: auto;
+}
+.container {
+  padding: 20px 20px;
+  margin: 10px;
+  width: 100%;
+  background: black;
+  text-align: center;
+}
+.container a {
+  text-decoration: none;
+  color: rgb(247, 169, 26);
+}
+.container li {
+  text-align: center;
+}
+.container ul li{
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+  
+   
+}
+.container p {
+  padding: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container a:hover {
+  color: white;
+}
+.btn {
+  color: white;
+  background: orange;
+  height: 56px;
+  width: 200px;
+  display: inline-block;
+  font-size: 17px;
+  padding: 12px 15px;
+  text-align: center;
+  border-radius: 10%;
+}
+.btn:hover {
+  background: rgb(182, 139, 61);
+}
+.sub-footer {
+  position: center;
+}
+h1 {
+  font-size: 2.0em;
+  padding: 19px;
+  margin: 20px 18px;
+}
+.gym {
+  
+  list-style: none;
+  line-height: 1.74em;
+  font-family: Arial, Helvetica, sans-serif;
+  float: right;
+  margin-bottom: 20px;
+}
+.container222 {
+  color: black;
+  text-align: center;
+}
+.container222 p {
+  text-align: center;
+}
+.container222.linestylerem {
+  text-decoration: none;
+}
+.container222.point1 {
+  float: left;
+  width: 25%;
+  height: 100%;
+}
+.container333 {
+  background: black;
+  list-style-type: disc;
+  width: 100%; 
+  
+}
+.container333 ul li a {
+  list-style: disc;
+  text-decoration: underline;
+}
+.container444 {
+  margin: 18px;
+}
+.container444 h1 {
+  color: black;
+  text-align: center;
+}
+.container444 p {
+  color: black;
+  text-align: center;
+  padding-bottom: 22px;
+}
+.container444 p a {
+  text-decoration: none;
+}
+.foot {
+  color: blue;
+  text-align: center;
+}
